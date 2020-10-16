@@ -10,7 +10,7 @@ This package provides a server-side search interface for Spotify. It was develop
 
 ## Usage
 
-1. After instsallation, run `main.py`
+1. After installation, run `main.py`
 2. Follow the authentication process in your browser and make sure that your app can write to a file named `tokens.ini`
 3. After a successful authentication, you should see a simple search form on the page. Alternatively, you can go to `/search/` as well.
 
@@ -19,6 +19,8 @@ This package provides a server-side search interface for Spotify. It was develop
 * Python 3
 * Bottle
 * Requests
+
+For full list of dependencies, check [requirements.txt](requirements.txt).
 
 ## Bugs, Comments, Ideas?
 
